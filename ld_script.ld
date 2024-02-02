@@ -371,6 +371,7 @@ SECTIONS {
         src/librfu_rfu.o(.text);
         src/librfu_sio32id.o(.text);
         src/libisagbprn.o(.text);
+        src/pokemon_forms.o(.text);
         *libagbsyscall.a:ArcTan2.o(.text);
         *libagbsyscall.a:BgAffineSet.o(.text);
         *libagbsyscall.a:CpuFastSet.o(.text);
@@ -1311,6 +1312,7 @@ SECTIONS {
     ALIGN(4)
     {
         src/graphics.o(.rodata);
+        src/pokemon_forms.o(.rodata);
     } > ROM =0
 
     extra :
