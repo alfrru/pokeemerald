@@ -737,8 +737,8 @@ PetalburgCity_Text_GymSign:
 	.string "“A man in pursuit of power!”$"
 
 PetalburgCity_Text_CitySign:
-	.string "PETALBURG CITY\n"
-	.string "“Where people mingle with nature.”$"
+	.string "CIUDAD JUBILEO\n"
+	.string "¡Qué alegría vivir aquí!$"
 
 PetalburgCity_Text_WallyHouseSign:
 	.string "WALLY'S HOUSE$"
