@@ -953,16 +953,16 @@ LittlerootTown_Text_ComeHomeIfAnythingHappens:
 	.string "Go on, go get them, honey!$"
 
 LittlerootTown_Text_CanUsePCToStoreItems:
-	.string "If you use a PC, you can store items\n"
-	.string "and POKéMON.\p"
-	.string "The power of science is staggering!$"
+	.string "¡La tecnología me abruma! ¡No entiendo\n"
+	.string "cómo funciona, de verdad!\p"
+	.string "Dime tú cómo se puede jugar con gente\n"
+	.string "de todo el mundo... ¡sin cables!$"
 
 LittlerootTown_Text_BirchSpendsDaysInLab:
-	.string "PROF. BIRCH spends days in his LAB\n"
-	.string "studying, then he'll suddenly go out in\l"
-	.string "the wild to do more research…\p"
-	.string "When does PROF. BIRCH spend time\n"
-	.string "at home?$"
+	.string "Sé que los Pokémon salvajes a veces\n"
+	.string "atacan a la gente...\p"
+	.string "Pero los Pokémon también te abren su\n"
+	.string "corazón para que podáis ser amigos...$"
 
 LittlerootTown_Text_IfYouGoInGrassPokemonWillJumpOut:
 	.string "Um, um, um!\p"
