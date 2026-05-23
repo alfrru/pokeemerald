@@ -208,6 +208,9 @@ const u32 gTrainerPalette_Sailor[] = INCGFX_U32("graphics/trainers/front_pics/sa
 const u32 gTrainerFrontPic_MagmaAdmin[] = INCGFX_U32("graphics/trainers/front_pics/magma_admin.png", ".4bpp.lz");
 const u32 gTrainerPalette_MagmaAdmin[] = INCGFX_U32("graphics/trainers/front_pics/magma_admin.png", ".gbapal.lz");
 
+const u32 gTrainerFrontPic_MagmaAdminF[] = INCGFX_U32("graphics/trainers/front_pics/magma_admin_f.png", ".4bpp.lz");
+const u32 gTrainerPalette_MagmaAdminF[] = INCGFX_U32("graphics/trainers/front_pics/magma_admin_f.png", ".gbapal.lz");
+
 const u32 gTrainerFrontPic_Wally[] = INCGFX_U32("graphics/trainers/front_pics/wally.png", ".4bpp.lz");
 const u32 gTrainerPalette_Wally[] = INCGFX_U32("graphics/trainers/palettes/wally.pal", ".gbapal.lz");
 

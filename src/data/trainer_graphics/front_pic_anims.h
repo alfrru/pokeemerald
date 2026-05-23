@@ -278,6 +278,10 @@ static const union AnimCmd *const sAnims_MagmaAdmin[] ={
     sAnim_GeneralFrame0,
 };
 
+static const union AnimCmd *const sAnims_MagmaAdminF[] ={
+    sAnim_GeneralFrame0,
+};
+
 static const union AnimCmd *const sAnims_Wally[] ={
     sAnim_GeneralFrame0,
 };
@@ -442,6 +446,7 @@ const union AnimCmd *const *const gTrainerFrontAnimsPtrTable[] =
     [TRAINER_PIC_TWINS] = sAnims_Twins,
     [TRAINER_PIC_SAILOR] = sAnims_Sailor,
     [TRAINER_PIC_MAGMA_ADMIN] = sAnims_MagmaAdmin,
+    [TRAINER_PIC_MAGMA_ADMIN_F] = sAnims_MagmaAdminF,
     [TRAINER_PIC_WALLY] = sAnims_Wally,
     [TRAINER_PIC_BRENDAN] = sAnims_Brendan,
     [TRAINER_PIC_MAY] = sAnims_May,
