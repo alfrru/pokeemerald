@@ -117,6 +117,12 @@ extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Scientist2;
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_DevonEmployee;
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_AquaMemberM;
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_AquaMemberF;
+// Nuevo
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_AquaAdminM;
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_AquaAdminF;
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_MagmaAdminM;
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_MagmaAdminF;
+// Fin nuevo
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_MagmaMemberM;
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_MagmaMemberF;
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Sidney;
@@ -366,6 +372,12 @@ const struct ObjectEventGraphicsInfo *const gObjectEventGraphicsInfoPointers[NUM
     [OBJ_EVENT_GFX_DEVON_EMPLOYEE] =           &gObjectEventGraphicsInfo_DevonEmployee,
     [OBJ_EVENT_GFX_AQUA_MEMBER_M] =            &gObjectEventGraphicsInfo_AquaMemberM,
     [OBJ_EVENT_GFX_AQUA_MEMBER_F] =            &gObjectEventGraphicsInfo_AquaMemberF,
+    // Nuevo
+    //[OBJ_EVENT_GFX_AQUA_ADMIN_M] =            &gObjectEventGraphicsInfo_AquaAdminM,
+    //[OBJ_EVENT_GFX_AQUA_ADMIN_F] =            &gObjectEventGraphicsInfo_AquaAdminF,
+    //[OBJ_EVENT_GFX_MAGMA_ADMIN_M] =           &gObjectEventGraphicsInfo_MagmaAdminM,
+    //[OBJ_EVENT_GFX_MAGMA_ADMIN_F] =           &gObjectEventGraphicsInfo_MagmaAdminF,
+    // Fin nuevo
     [OBJ_EVENT_GFX_MAGMA_MEMBER_M] =           &gObjectEventGraphicsInfo_MagmaMemberM,
     [OBJ_EVENT_GFX_MAGMA_MEMBER_F] =           &gObjectEventGraphicsInfo_MagmaMemberF,
     [OBJ_EVENT_GFX_SIDNEY] =                   &gObjectEventGraphicsInfo_Sidney,
